@@ -1,0 +1,2 @@
+C:\PROGRA~1\msys64\mingw64\bin\ar.exe qc libSerialPort.a CMakeFiles/SerialPort.dir/SerialPort.cpp.obj CMakeFiles/SerialPort.dir/gcode_program.cpp.obj CMakeFiles/SerialPort.dir/parser.cpp.obj CMakeFiles/SerialPort.dir/GCode.cpp.obj CMakeFiles/SerialPort.dir/Arduino.cpp.obj
+C:\PROGRA~1\msys64\mingw64\bin\ranlib.exe libSerialPort.a

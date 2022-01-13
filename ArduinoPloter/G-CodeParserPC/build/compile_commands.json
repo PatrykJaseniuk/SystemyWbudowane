@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/build/source",
+  "command": "C:\\PROGRA~1\\msys64\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/SerialPort.dir/includes_CXX.rsp -g -o CMakeFiles\\SerialPort.dir\\SerialPort.cpp.obj -c C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\SystemyWbudowane\\G-CodeParserPC\\source\\SerialPort.cpp",
+  "file": "C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/source/SerialPort.cpp"
+},
+{
+  "directory": "C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/build/source",
+  "command": "C:\\PROGRA~1\\msys64\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/SerialPort.dir/includes_CXX.rsp -g -o CMakeFiles\\SerialPort.dir\\gcode_program.cpp.obj -c C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\SystemyWbudowane\\G-CodeParserPC\\source\\gcode_program.cpp",
+  "file": "C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/source/gcode_program.cpp"
+},
+{
+  "directory": "C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/build/source",
+  "command": "C:\\PROGRA~1\\msys64\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/SerialPort.dir/includes_CXX.rsp -g -o CMakeFiles\\SerialPort.dir\\parser.cpp.obj -c C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\SystemyWbudowane\\G-CodeParserPC\\source\\parser.cpp",
+  "file": "C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/source/parser.cpp"
+},
+{
+  "directory": "C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/build/source",
+  "command": "C:\\PROGRA~1\\msys64\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/SerialPort.dir/includes_CXX.rsp -g -o CMakeFiles\\SerialPort.dir\\GCode.cpp.obj -c C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\SystemyWbudowane\\G-CodeParserPC\\source\\GCode.cpp",
+  "file": "C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/source/GCode.cpp"
+},
+{
+  "directory": "C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/build/source",
+  "command": "C:\\PROGRA~1\\msys64\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/SerialPort.dir/includes_CXX.rsp -g -o CMakeFiles\\SerialPort.dir\\Arduino.cpp.obj -c C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\SystemyWbudowane\\G-CodeParserPC\\source\\Arduino.cpp",
+  "file": "C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/source/Arduino.cpp"
+},
+{
+  "directory": "C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/build/source",
+  "command": "C:\\PROGRA~1\\msys64\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/serial.dir/includes_CXX.rsp -g -o CMakeFiles\\serial.dir\\main.cpp.obj -c C:\\Users\\jasyn\\OneDrive\\Dokumenty\\S5\\SystemyWbudowane\\G-CodeParserPC\\source\\main.cpp",
+  "file": "C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/source/main.cpp"
+}
+]

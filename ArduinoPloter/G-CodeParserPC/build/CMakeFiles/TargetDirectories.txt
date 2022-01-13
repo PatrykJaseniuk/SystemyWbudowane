@@ -1,0 +1,6 @@
+C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/build/CMakeFiles/edit_cache.dir
+C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/build/source/CMakeFiles/SerialPort.dir
+C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/build/source/CMakeFiles/serial.dir
+C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/build/source/CMakeFiles/edit_cache.dir
+C:/Users/jasyn/OneDrive/Dokumenty/S5/SystemyWbudowane/G-CodeParserPC/build/source/CMakeFiles/rebuild_cache.dir

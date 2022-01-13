@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\serial.dir/objects.a
+C:\PROGRA~1\msys64\mingw64\bin\ar.exe qc CMakeFiles\serial.dir/objects.a @CMakeFiles\serial.dir\objects1.rsp
+C:\PROGRA~1\msys64\mingw64\bin\X86_64~2.EXE -g -Wl,--whole-archive CMakeFiles\serial.dir/objects.a -Wl,--no-whole-archive -o serial.exe -Wl,--out-implib,libserial.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\serial.dir\linklibs.rsp
